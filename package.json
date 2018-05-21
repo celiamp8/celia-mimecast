@@ -1,0 +1,31 @@
+{
+  "name": "celia-mimecast",
+  "version": "1.0.0",
+  "description": "mimecast exercise",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "cucumber": "^4.2.1",
+    "protractor": "^5.3.2",
+    "protractor-cucumber-framework": "^5.0.0"
+  },
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celiamp8/celia-martin-exercise.git"
+  },
+  "keywords": [
+    "mimecast"
+  ],
+  "author": "celia.martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celiamp8/celia-martin-exercise/issues"
+  },
+  "homepage": "https://github.com/celiamp8/celia-martin-exercise#readme"
+}
